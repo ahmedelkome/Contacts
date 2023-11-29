@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">content_provider</string>
+    <string name="contacts">MyTask</string>
+</resources>
